@@ -1,4 +1,4 @@
-# Global Sales Performaance Dashboard 
+# Global Sales Performance Dashboard 
 Power BI Sales Analysis Dashboard
 
 This project is an interactive sales dashboard developed using Power BI and Excel to analyze sales performance, profitability, regional trends, product performance, and customer order patterns.
